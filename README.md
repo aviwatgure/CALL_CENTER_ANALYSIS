@@ -4,9 +4,7 @@
 
 ## INTRODUCTION
 
-Welcome to the Bank Loan Analysis Project.
-This project leverages the powerful capabilities of Excel, SQL, and Microsoft Power BI focuses on harnessing the capabilities of these tools to analyze, visualize, and interpret loan data. Aims to evaluate and predict the risk associated with loan applications. This analysis helps banks and financial institutions make informed decisions about approving or rejecting loan requests.
-
+Welcome to the Call Center Performance Analysis Dashboard repository. This project involves a detailed analysis of call center data using Power BI to provide insights into various aspects of call center operations, including call volumes, agent performance, and customer satisfaction. The goal is to leverage data to optimize operations, enhance agent productivity, and improve customer service quality.
 
 ## PROBLEM STATEMENT
 
@@ -86,13 +84,12 @@ Than we visualiza a data by using different chart and we play around it to get s
  
 
  <br>
- <br> 
 
 ## CONCLUTION
 
-![](conclution.png)
-
 The analysis of the call data reveals the following key insights:
+
+![](conclution.png)
 
 - <u> Total Calls  </u> : 32.94K
 - <u> Total Call Duration(Hrs) </u> : 13.74K
@@ -104,31 +101,30 @@ The analysis of the call data reveals the following key insights:
 - <u> Top reason of call is billing qutions
 - <u> Busys day of week are Thusday & Friday for calling
 
-<br>
-<br>
 
-### Based on the analysis of the call center data, several key insights have emerged. The total number of calls is 32.94K, with a cumulative duration of 13.74K hours or 824.22K minutes, resulting in an average call duration of approximately 25.02 minutes. The response rate for these calls stands at 75.26%. The majority of these calls are tracked from the Los Angeles call center, with a significant portion of them stemming from negative customer sentiments. The primary reason for these calls is related to billing questions. Additionally, the busiest days for calls are Thursday and Friday.
+#### Based on the analysis of the call center data, several key insights have emerged. The total number of calls is 32.94K, with a cumulative duration of 13.74K hours or 824.22K minutes, resulting in an average call duration of approximately 25.02 minutes. The response rate for these calls stands at 75.26%. The majority of these calls are tracked from the Los Angeles call center, with a significant portion of them stemming from negative customer sentiments. The primary reason for these calls is related to billing questions. Additionally, the busiest days for calls are Thursday and Friday.
 
 
 ## Recommendations:
 
 Based on the analysis of the call center data, here are several recommendations to address the identified insights:
 
-![](reccomandation.png)
 
 ### 1. Improve Response Time: 
 Since the current response rate is 75.26%, there is room for improvement. Implementing additional training or hiring more staff during peak hours, especially on Thursday and Friday, could help reduce wait times and improve overall response rates.
 
-###2. Address Billing Issues:
+### 2. Address Billing Issues:
 As billing questions are the top reason for calls, it would be beneficial to streamline and simplify the billing process. Providing clear, detailed billing statements and enhancing the FAQ section on the website can help reduce the number of billing-related inquiries.
 
-###3. Enhance Customer Sentiment: 
+### 3. Enhance Customer Sentiment: 
 With a significant portion of calls stemming from negative sentiments, it's important to analyze the root causes of customer dissatisfaction. Conducting regular surveys and gathering feedback can help identify and address common pain points. Training staff in conflict resolution and empathy can also improve customer interactions.
 
-###4. Optimize Staffing for Peak Days: 
+![](reccomandation.png)
+
+### 4. Optimize Staffing for Peak Days: 
 Since Thursday and Friday are the busiest days, ensure that the call center is adequately staffed on these days. Consider implementing flexible work schedules or temporary staffing solutions to handle the increased call volume.
 
-###5. Leverage Los Angeles Call Center: 
+### 5. Leverage Los Angeles Call Center: 
 Given that most calls are tracked from the Los Angeles call center, ensure this location has the necessary resources and support to handle the high call volume. Investing in advanced call center technology and infrastructure can also improve efficiency and service quality.
 
 By addressing these areas, the call center can improve its operational efficiency, enhance customer satisfaction, and reduce the volume of negative sentiment calls.
