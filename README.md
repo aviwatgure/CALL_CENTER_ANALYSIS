@@ -109,6 +109,7 @@ The analysis of the call data reveals the following key insights:
 
 Based on the analysis of the call center data, here are several recommendations to address the identified insights:
 
+![](recc.png)
 
 ### 1. Improve Response Time: 
 Since the current response rate is 75.26%, there is room for improvement. Implementing additional training or hiring more staff during peak hours, especially on Thursday and Friday, could help reduce wait times and improve overall response rates.
@@ -118,8 +119,6 @@ As billing questions are the top reason for calls, it would be beneficial to str
 
 ### 3. Enhance Customer Sentiment: 
 With a significant portion of calls stemming from negative sentiments, it's important to analyze the root causes of customer dissatisfaction. Conducting regular surveys and gathering feedback can help identify and address common pain points. Training staff in conflict resolution and empathy can also improve customer interactions.
-
-![](reccomandation.png)
 
 ### 4. Optimize Staffing for Peak Days: 
 Since Thursday and Friday are the busiest days, ensure that the call center is adequately staffed on these days. Consider implementing flexible work schedules or temporary staffing solutions to handle the increased call volume.
